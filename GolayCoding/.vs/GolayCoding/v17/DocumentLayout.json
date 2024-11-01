@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\golay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\golay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\decodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\decodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\golayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\golayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\golaycode\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}|GolayCode\\GolayCode.csproj|solutionrelative:golaycode\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8423E14-CF81-4D93-ABC2-CD9626769D54}|UI\\UI.csproj|d:\\vu\\year_3\\codingtheory\\golaycoding\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8423E14-CF81-4D93-ABC2-CD9626769D54}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1340,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GolayException.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\GolayException.cs",
+              "RelativeDocumentMoniker": "GolayCode\\GolayException.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\GolayException.cs",
+              "RelativeToolTip": "GolayCode\\GolayException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:30.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Golay.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\Golay.cs",
+              "RelativeDocumentMoniker": "GolayCode\\Golay.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\Golay.cs",
+              "RelativeToolTip": "GolayCode\\Golay.cs",
+              "ViewState": "AQIAAIUBAAAAAAAAAAAswCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecodingService.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\DecodingService.cs",
+              "RelativeDocumentMoniker": "GolayCode\\DecodingService.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\DecodingService.cs",
+              "RelativeToolTip": "GolayCode\\DecodingService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwFMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChannelService.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\ChannelService.cs",
+              "RelativeDocumentMoniker": "GolayCode\\ChannelService.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\ChannelService.cs",
+              "RelativeToolTip": "GolayCode\\ChannelService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncodingService.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\EncodingService.cs",
+              "RelativeDocumentMoniker": "GolayCode\\EncodingService.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\EncodingService.cs",
+              "RelativeToolTip": "GolayCode\\EncodingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\Extensions.cs",
+              "RelativeDocumentMoniker": "GolayCode\\Extensions.cs",
+              "ToolTip": "D:\\VU\\Year_3\\CodingTheory\\GolayCoding\\GolayCode\\Extensions.cs",
+              "RelativeToolTip": "GolayCode\\Extensions.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:38:31.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 676,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1586,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

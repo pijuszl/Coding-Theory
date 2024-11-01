@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{C8423E14-CF81-4D93-ABC2-CD9626769D54}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB} = {D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GolayCode", "GolayCode\GolayCode.csproj", "{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8423E14-CF81-4D93-ABC2-CD9626769D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8423E14-CF81-4D93-ABC2-CD9626769D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8423E14-CF81-4D93-ABC2-CD9626769D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8423E14-CF81-4D93-ABC2-CD9626769D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BB0C3F-9643-45E1-A9FD-387F2C0895DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56F76A5-043B-40B7-A8AC-4766E7520FF0}
+	EndGlobalSection
+EndGlobal
